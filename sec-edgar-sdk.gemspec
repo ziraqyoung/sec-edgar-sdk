@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/david-christensen/sec-edgar-sdk'
   s.license     = 'MIT'
   s.add_dependency 'httparty', '~> 0.19', '>= 0.19.0'
-  s.add_dependency 'activesupport', '~> 6.1', '>= 6.1.4.1'
+  s.add_dependency 'activesupport', '~> '7.0.0.alpha2'
 end
